@@ -1,3 +1,7 @@
+/***
+ * 原题地址：https://leetcode-cn.com/problems/implement-strstr/description/
+ * @author Lucius
+ */
 public class no28ImplementStrstr {
     public int strStr(String haystack, String needle) {
         if (needle.length() == 0) {

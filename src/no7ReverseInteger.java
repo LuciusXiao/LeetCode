@@ -1,3 +1,7 @@
+/***
+ * 原题地址：https://leetcode-cn.com/problems/reverse-integer/description/
+ * @author Lucius
+ */
 public class no7ReverseInteger {
 
     public static void main(String[] args) {

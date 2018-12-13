@@ -1,3 +1,7 @@
+/***
+ * 原题地址：https://leetcode-cn.com/problems/longest-common-prefix/description/
+ * @author Lucius
+ */
 public class no14LongestCommonPrefix {
     public String longestCommonPrefix(String[] strs) {
         StringBuffer results = new StringBuffer();
