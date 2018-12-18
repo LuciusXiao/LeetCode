@@ -2,6 +2,8 @@
  * 原题地址：https://leetcode-cn.com/problems/reverse-integer/description/
  * @author Lucius
  */
+import java.util.*;
+
 public class no7ReverseInteger {
 
     public static void main(String[] args) {
@@ -25,7 +27,6 @@ public class no7ReverseInteger {
 
             }
         }
-
 
         System.out.println("goono:"+x);
     }
